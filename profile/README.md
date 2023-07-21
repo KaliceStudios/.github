@@ -14,7 +14,7 @@ Welcome to the official GitHub repository of Kalice Studios! We are a passionate
 
 Kalice Studios is a game development and DevOps security organization committed to creating exciting and innovative gaming experiences while prioritizing the security aspects of the development process. Our team is driven by creativity and a shared love for gaming and technology.
 
-Projects
+## Projects
 In this repository, you will find a collection of our open-source projects, each with its own directory and documentation.
 
 Feel free to explore these projects, contribute, and give us your valuable feedback!
