@@ -1,6 +1,7 @@
 # Kalice Studios
 
-![image](https://github.com/user-attachments/assets/e9ead092-3169-4aa2-a312-d75b794cb342)
+![logo](https://github.com/user-attachments/assets/166cd019-75d4-478c-a68d-32f9c950d8a3)
+
 
 
 Welcome to the official GitHub repository of Kalice Studios! We are a passionate team focused on developing games and specializing in DevOps security. This repository contains the source code, assets, and documentation for our various game projects and DevOps security tools.
